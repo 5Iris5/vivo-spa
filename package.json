@@ -2,7 +2,7 @@
   "name": "apptwo",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Mynameisfwk <2239657654@qq.com>",
+  "author": "liyu <335136854@qq.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
